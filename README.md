@@ -181,8 +181,10 @@ Result Image
 ------
 C:\Program Files\PCL 1.8.1\share\doc\pcl-1.8\tutorials\sources\pcl_visualizer 의 경로에 있는 샘플 코드를 사용    
 제어는 마우스로 가능하며, 왼쪽 버튼은 Point Cloud의 이동을, 오른쪽 버튼과 마우스 휠로는 Point Cloud와의 시야 거리를 조정    
-아래는 argv로 -c 인자를 주어 실행한 결과
-[img1](./image.png)
+아래는 argv로 -c 인자를 주어 실행한 결과    
+    
+    
+![img1](./image.png)
 
 Sample Code
 -----
