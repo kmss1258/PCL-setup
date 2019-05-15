@@ -1,11 +1,12 @@
 # Point Cloud Library (PCL) Setup method (VS 2015, PCL 1.8.1)
-Using All-In-One Installer (.exe)
+**Using All-In-One Installer (.exe)**
 
 File Link : https://github.com/PointCloudLibrary/pcl/releases/download/pcl-1.8.1/PCL-1.8.1-AllInOne-msvc2015-win64.exe
 > PCL 1.8.1, Boost 1.64.0, Eigen 3.3.4, FLANN 1.9.1, VTK 8.0.0 (OpenGL backend), QHull 2015.2, OpenNI 2.2.0.33 Beta
 
 # PCL 설치
-ㅁㄴㅇ
+위 링크의 파일을 다운로드 받아 설치하면 된다.       
+환경변수는 추가해도 되고, 아래처럼 직접 환경변수를 추가해도 된다.
 
 # PCL 라이브러리 세팅
 아래의 세팅은 Debugging Mode 기준. Release로 실행하고 싶다면 include files을 제외하고 library는 **d, gd...** 등이 붙지 않은 것을 추가하면 됨
