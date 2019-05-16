@@ -587,3 +587,7 @@ vcomp140d.dll에 오류가 있거나...
 System32 폴더에 있는 openMP 라이브러리가 손상되었을 경우 나타나는 현상일 가능성이 큼.
 다른 컴퓨터에서 해당 파일을 검색하여 다운로드 하는 것을 추천.
 
+
+# References
+
+* http://www.jeffdelmerico.com/wp-content/uploads/2014/03/pcl_tutorial.pdf
