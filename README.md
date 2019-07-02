@@ -166,6 +166,7 @@ vtkverdict-8.0-gd.lib
 vtkViewsContext2D-8.0-gd.lib
 vtkViewsCore-8.0-gd.lib
 vtkzlib-8.0-gd.lib
+opengl32.lib
 ```
 
 동적 라이브러리 추가 (adding DLL files)
@@ -587,6 +588,9 @@ vcomp140d.dll에 오류가 있거나...
 System32 폴더에 있는 openMP 라이브러리가 손상되었을 경우 나타나는 현상일 가능성이 큼.
 다른 컴퓨터에서 해당 파일을 검색하여 다운로드 하는 것을 추천.
 
+vtkRenderingOpenGL-8.1-gd.lib(vtkWin32OpenGLRenderWindow.obj) : error LNK2019: imp_wglCreateContext 외부 기호....외 32가지
+--------    
+opengl32.lib를 빼먹었을 가능성이 크다. 해당 라이브러리를 추가.
 
 # References
 
