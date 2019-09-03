@@ -2,7 +2,8 @@
 **Using All-In-One Installer (.exe)**
 
 File Link : https://github.com/PointCloudLibrary/pcl/releases/download/pcl-1.8.1/PCL-1.8.1-AllInOne-msvc2015-win64.exe
-> PCL 1.8.1, Boost 1.64.0, Eigen 3.3.4, FLANN 1.9.1, VTK 8.0.0 (OpenGL backend), QHull 2015.2, OpenNI 2.2.0.33 Beta
+> PCL 1.8.1, Boost 1.64.0, Eigen 3.3.4, FLANN 1.9.1, VTK 8.0.0 (OpenGL backend), QHull 2015.2, OpenNI 2.2.0.33 Beta    
+> 현재는 PCL-1.9.1-AllInOne-msvc2017-win64.exe 버전으로 설치하여 진행 중. VS 2017로 작업이 필요한 부분이 존재해서..
 
 # PCL 설치
 위 링크의 파일을 다운로드 받아 설치하면 된다.       
